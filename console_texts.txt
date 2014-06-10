@@ -1,1 +1,2 @@
-:textcolor Red visit www.miblestudios.de
+:textcolor Red
+Project developed by www.miblestudios.de
