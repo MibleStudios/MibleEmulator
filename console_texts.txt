@@ -1,2 +1,2 @@
-:textcolor Red
-Project developed by www.miblestudios.de
+:textcolor Cyan
+     Willkommen bei einem neuen Projekt der Mible Studios!
