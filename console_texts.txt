@@ -1,3 +1,5 @@
 :textcolor Cyan
-Willkommen bei einem neuen Projekt der Mible Studios! 
-Achtung, dies ist eine Beta-version und kann Fehler enthalten.
+Achtung, dies ist eine Alpha-Version und kann Fehler enthalten.
+
+Bitte bis zu dem nächsten Update bei MibleStudios registrieren,
+damit Sie im Lizenzsystem eingetragen sind.
