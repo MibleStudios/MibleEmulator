@@ -1,2 +1,3 @@
 :textcolor Cyan
-     Willkommen bei einem neuen Projekt der Mible Studios!
+Willkommen bei einem neuen Projekt der Mible Studios! 
+Achtung, dies ist eine Beta-version und kann Fehler enthalten.
