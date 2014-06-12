@@ -1,3 +1,2 @@
 :textcolor Cyan
-Achtung, dies ist eine Alpha-Version und kann Fehler enthalten. Bitte bis zu dem nächsten Update 
-bei MibleStudios registrieren, damit Sie im Lizenzsystem eingetragen sind.
+Achtung, dies ist eine Alpha-Version und kann Fehler enthalten.
